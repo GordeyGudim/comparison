@@ -1,2 +1,2 @@
 from comparsion import comparsion
-comparsion()
+print(comparsion())
