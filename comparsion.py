@@ -1,7 +1,7 @@
 import filecmp, os
 def comparsion():
-    files = os.listdir('/home/gordey/Desktop/Back/back')
-    files2 = os.listdir('/home/gordey/Desktop/Back/back2')
+    files = os.listdir('back')
+    files2 = os.listdir('back2')
     listTrue = []
     listFalse = []
     for f1le in files:
